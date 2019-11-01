@@ -2,11 +2,11 @@ Number and name of feature: _______Refactor the CSS_________________________
 
 Estimate of time needed to complete: __1hour___
 
-Start time: _____
+Start time: _12:00____
 
-Finish time: _____
+Finish time: __12:20___
 
-Actual time needed to complete: _____
+Actual time needed to complete: __20min___
 
 
 
