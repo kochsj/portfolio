@@ -329,14 +329,14 @@ ul.icons {
 			}
 
 			#main > section.two {
-				background-color: #f5fafa;
+                background: linear-gradient(360deg, #3F2B96 0%, #A8C0FF 100%);
 			}
-
+            
 			#main > section.three {
-				background-color: #ecf1f1;
+				background: linear-gradient(360deg, #fcff9e 0%, #c67700 100%);
 			}
 
 			#main > section.four {
-				background-color: #e8edec;
+                background: linear-gradient(0deg, #e3ffe7 0%, #d9e7ff 100%);
 			}
 
