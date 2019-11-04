@@ -19,3 +19,14 @@ Start time: __12:20___
 Finish time: _13:45____
 
 Actual time needed to complete: __1hr 25min___
+
+
+Number and name of feature: __________Add Functionality______________________
+
+Estimate of time needed to complete: __1hour___
+
+Start time: __930am___
+
+Finish time: _____
+
+Actual time needed to complete: _____

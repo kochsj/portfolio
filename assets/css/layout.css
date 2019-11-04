@@ -340,3 +340,16 @@ ul.icons {
                 background: linear-gradient(0deg, #e3ffe7 0%, #d9e7ff 100%);
 			}
 
+	.image-fit{
+		/* height: 25vw; */
+		margin: 0px;
+		padding: 0px;
+		display: block;
+		margin-right: auto;
+		margin-left: auto;
+		width: 50%;
+	}
+	#image-holder{
+		height: 30vw;
+	
+	}
